@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus da Guia de Campos</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate FullStack developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teuuz1994" alt="teuuz1994" /> </p>
 
