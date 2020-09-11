@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teuuz1994?tab=repositories](https://github.com/Teuuz1994?tab=repositories)
 
-- 💬 Ask me about **React, VueJS, NextJS, Firebase, DevoPs**
+- 💬 Ask me about **React, VueJS, NextJS, Firebase, DevOps**
 
 - 📫 How to reach me **matheus.rj.ig@gmail.com**
 
