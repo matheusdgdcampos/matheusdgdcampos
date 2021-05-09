@@ -47,6 +47,7 @@ Currently working as a front-end developer at the Clicksoft digital agency.
 
 <a href="https://github.com/teuuz1994">
   <img src="https://github-readme-stats.vercel.app/api?username=teuuz1994&show_icons=true" alt="teuuz1994" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuuz1994&layout=compact&hide=html" alt="teuuz1994" />
 </a>
 
