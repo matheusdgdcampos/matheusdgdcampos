@@ -40,7 +40,6 @@ Currently working as a front-end developer at the Calindra.
 <h3>:memo: &nbsp;Learning More About</h3>
 
 - :book: &nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
 
   <br/>
