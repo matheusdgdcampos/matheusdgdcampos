@@ -5,7 +5,7 @@
 - :neckbeard: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - :mortar_board: &nbsp; Technological Graduation in Analysis and Systems Development from the University of Estácio de Sá - Brazil.
 - :briefcase: &nbsp; 
-Currently working as a front-end developer at the Clicksoft digital agency.
+Currently working as a front-end developer at the Calindra.
 - :seedling: &nbsp; Learning more about Next.js, Flutter and React Native and cloud architecture.
 - ✍️ &nbsp; As a hobby I look for news in the JS community trying to contribute in some way and play video games every now and then.
 
