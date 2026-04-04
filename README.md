@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on its own<br>🤝 I’m looking for help beginners in programming<br>🌱 I’m currently learning Java and Spring boot<br>💬 Ask me about tecnology in general
+🔭 I’m currently working on its own<br>🤝 I’m looking for help another engineers in programming<br>🌱 I’m currently learning AI Agents, Native mobile development and backend development<br>💬 Ask me about tecnology in general
 
 
 ## 🌐 Socials:
